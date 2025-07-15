@@ -36,6 +36,8 @@ npm install
 3. Configure Environment Variables
 ```
 DATABASE_URL=postgresql://user:password@localhost:5432/your_database
+PORT = 3000
+
 ```
 4. Setup Prisma & Database
 ```
