@@ -27,8 +27,7 @@ This is the markdown file for the task - Event Management API
 
 1. Clone the Repository
 ```
-git clone https://github.com/your-username/event-api.git
-cd event-api
+git clone https://github.com/shreshhhth/EVENT-MANAGEMENT-API
 ```
 2. Install Dependencies
 ```
